@@ -1,2 +1,2 @@
 # WA2
-## Samostalni zadatak za vježbu 3
+## Vjezbe 1, 2, 3, i 4
